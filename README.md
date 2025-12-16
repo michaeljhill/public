@@ -46,4 +46,46 @@ I prioritize measurable impact, autonomy, and engineering rigor.
 - Reduced O365 cost by 10% through automation and licensing optimization  
 
 ### **Head of Global IT – Bright Machines**
-- Directed global IT across engineering and ma
+- Directed global IT across engineering and manufacturing operations  
+- Designed multi-cloud identity & access architecture  
+- Reduced IT spend by 70% while improving service delivery  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Cloud:** AWS, Azure  
+**Virtualization:** VMware, Hyper-V, VxRail  
+**Infrastructure:** Dell PowerEdge, storage systems, HA design  
+**Networking:** Cisco, Juniper, Palo Alto, Fortinet, MPLS, BGP, VPN  
+**Identity:** Okta, Azure AD, SSO, SAML  
+**Automation:** PowerShell, Bash, Python  
+**Ops Tools:** Jira, Confluence, GitHub, GitLab, ServiceNow, SolarWinds  
+
+---
+
+## 📫 Contact
+
+- **Email:** [mike.hill@mjh99.com](mailto:mike.hill@mjh99.com)  
+- **LinkedIn:** (Add link here)  
+- **Website:** (Add GitHub Pages URL once deployed)
+
+---
+
+## ⚡ Fun Fact
+I love simplifying overly complex systems — whether technical, organizational, or conceptual.  
+If there's a cleaner, more efficient way to do something, I’ll find it.
+
+---
+
+## 👇 What You'll Find in My GitHub
+
+- Infrastructure-as-Code examples (Terraform, automation workflows)  
+- Cloud architecture patterns  
+- Scripts for operational efficiency  
+- Personal portfolio site & branding assets  
+- Future tools for IT modernization and team enablement  
+
+---
+
+**Thanks for visiting — feel free to reach out if you're building something interesting, modernizing infrastructure, or navigating cloud transformation.**
